@@ -20,7 +20,6 @@ The Magic 8 Ball is a plastic sphere, made to look like an oversized eight ball 
             return 'My reply is NO'
         elif answer_number == 8:
             return 'Outlook not so good'
-
     r = random.randint(1,8)
     fortune = get_answer(r)
     print(fortune)
