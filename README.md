@@ -24,3 +24,4 @@ The Magic 8 Ball is a plastic sphere, made to look like an oversized eight ball 
     fortune = get_answer(r)
     print(fortune)
 
+
